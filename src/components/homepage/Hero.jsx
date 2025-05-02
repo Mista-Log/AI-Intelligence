@@ -16,21 +16,21 @@ const Hero = () => {
                         }} className="lg:text-[7rem] md:text-[6rem] text-[0rem] text-transparent font-bold font-outline-2 lg:rotate-180 md:rotate-180 -rotate-90">
                             ANGELFACE
                         </h1> */}
-                        <h1 className="lg:text-[0rem] md:text-[0rem] text-[4rem] text-transparent font-bold font-outline-2">
+                        {/* <h1 className="lg:text-[0rem] md:text-[0rem] text-[4rem] text-transparent font-bold font-outline-2">
                             Vortisys
-                        </h1>
+                        </h1> */}
                     </div>
                     <div className='z-20'>
                         {/* <img src="/images/stars.png" alt="start" className='h-32' /> */}
                         <Parallax speed={-15}>
                             {/* <img src="/images/astro2.png" alt="space ship" className='lg:h-[13rem] h-[10rem] absolute lg:right-[10rem] md:right-[5rem] right-2 top-[-12rem] z-0' /> */}
                         </Parallax>
-                        <h1 className='lg:text-8xl md:text-6xl text-5xl font-medium mt-4'>Vortisys AI</h1>
-                        <h1 className='lg:text-8xl md:text-6xl text-5xl mt-2 text-purple-500 font-medium'>Web3 Intelligence</h1>
+                        <h1 className='lg:text-8xl md:text-6xl text-5xl font-medium mt-4'>Dynamic AI</h1>
+                        <h1 className='lg:text-8xl md:text-6xl text-5xl mt-2 text-purple-500 font-medium'>Flexible Intelligence</h1>
                         <p className='text-lg my-5'>NEW WAY TO <span className='text-purple-500'>LEARN</span> SKILLS</p>
 
                         <p className='text-lg my-10 max-w-md'>
-                            Fun Filled Competitions to tickle your Coding brain and win exclusive prizes by AngelHack.
+                            Fun Filled Competitions to tickle your Coding brain and win exclusive prizes by Learning.
                         </p>
 
                         <div className='flex gap-5'>
